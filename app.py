@@ -200,6 +200,5 @@ else:
                     for s_dest_nome in scaffali_destinazione:
                         s_dest = st.session_state.flotta_scaffali[s_dest_nome]
                         
-                        # Copia mirata sulla stessa coordinata ripiano/modulo
-                        if copia_stessa_cella:
+                    
                            
