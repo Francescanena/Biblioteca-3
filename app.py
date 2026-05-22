@@ -202,5 +202,4 @@ else:
                         
                         # Copia mirata sulla stessa coordinata ripiano/modulo
                         if copia_stessa_cella:
-                            # Verifichiamo prima che lo scaffale di destinazione sia abbastanza grande
-                            if r_idx < s_dest['ripiani'] and m_idx < s_dest['moduli']:
+                           
